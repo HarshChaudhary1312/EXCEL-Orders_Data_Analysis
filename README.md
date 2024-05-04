@@ -1,5 +1,5 @@
 # Sales Analysis Project
-<img src="https://learn.g2.com/hubfs/Imported%20sitepage%20images/1ZB5giUShe0gw9a6L69qAgsd7wKTQ60ZRoJC5Xq3BIXS517sL6i6mnkAN9khqnaIGzE6FASAusRr7w=w1439-h786.png" height="300">
+<img src="https://learn.g2.com/hubfs/Imported%20sitepage%20images/1ZB5giUShe0gw9a6L69qAgsd7wKTQ60ZRoJC5Xq3BIXS517sL6i6mnkAN9khqnaIGzE6FASAusRr7w=w1439-h786.png" height="400">
 
 ## Overview
 This Excel project provides a comprehensive analysis of sales data, focusing on various aspects such as region-wise sales, top customers, month and year-wise sales trends, and delivery person region-wise sales. Through interactive visualizations and slicers, it offers valuable insights into the performance of sales operations across different dimensions.
